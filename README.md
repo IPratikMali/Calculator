@@ -1,3 +1,5 @@
+![Project View Counter](https://komarev.com/ghpvc/?repository=Calculator)
+
 # Calculator
 Calculator developed in HTML , CSS and JS
 
